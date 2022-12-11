@@ -1,0 +1,8 @@
+Question 1
+Describe a Data Engineer’s role in an organization and its main responsibilities.
+The data engineer’s role and responsibilities can be described as follow:
+•	A data engineer is chargeable for collecting, managing, and changing data into info that will be understood by data scientists and business analysts.  
+•	Constructing data pipelines is also the core responsibility of data engineering. It requires advanced programming skills to design a program for continuous and automated data exchange. 
+•	In order to help businesses to perform analysis, data accessibility has become one of the objectives that need to be achieved. 
+•	Data engineers also will help in improving the data quality and reliability.  
+
